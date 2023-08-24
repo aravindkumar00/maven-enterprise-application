@@ -24,7 +24,7 @@
             <type>war</type>
         </dependency>
     </dependencies>
-  distributionManagement>
+  <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
